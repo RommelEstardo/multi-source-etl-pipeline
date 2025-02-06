@@ -1,0 +1,5 @@
+# Replace the placeholder values with your actual data
+
+sftp_password = ExamplePassword1 (Type: SecureString)
+smtp_password = ExamplePassword2 (Type: SecureString)
+sql_password = ExamplePassword3 (Type: SecureString)
